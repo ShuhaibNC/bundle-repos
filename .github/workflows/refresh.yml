@@ -34,3 +34,11 @@ jobs:
             git commit -m "Refresh bundles.txt"
             git push
           fi
+
+      - name: Publish bundles.txt to rolling release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Bundle repos (latest)
+          body: Daily-scraped list of ReVanced & Morphe patch bundle repository URLs, one per line.
+          files: bundles.txt
