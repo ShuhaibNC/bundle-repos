@@ -2,6 +2,7 @@ https://github.com/0-BlackSpectrum-0/channel-blacklist-patch
 https://github.com/1fexd/revanced-patches
 https://github.com/4831c0/custom-revanced-patches
 https://github.com/6ixfalls/revanced-patches
+https://github.com/Adish08/morphe-patches
 https://github.com/AgentKosticka/Jam-Patches
 https://github.com/Akash-Sriram/De-Vanced
 https://github.com/Akash-Sriram/morphe-google-photos
@@ -68,6 +69,7 @@ https://github.com/Joristdh/Platypatch
 https://github.com/Joussflls10/Jouss-Patches
 https://github.com/KR1901/sofascore-font-revanced
 https://github.com/Kecerim24/morphe-patches
+https://github.com/LDP924/qqmusic-proxy
 https://github.com/LOCKhart07/morphe-patches
 https://github.com/LaBlazer/morphe-patches
 https://github.com/LaKakaReal/LaKakaShitPatches
@@ -114,6 +116,7 @@ https://github.com/Solvo37/vk-video-morphe-patches
 https://github.com/SouBryan/pinterest-morphed
 https://github.com/Supperelias2/sbs-morphe-patches
 https://github.com/Supperelias2/sbs-tv-morphe-patches
+https://github.com/SysAdminDoc/HushMessenger
 https://github.com/SysAdminDoc/Hushfacebook
 https://github.com/SysAdminDoc/hushfeed
 https://github.com/Taknok/revanced-patches
@@ -167,6 +170,7 @@ https://github.com/atticadayz/tiktok-mini-drama-revanced-patch
 https://github.com/ausamnco/gboard-enc-patches
 https://github.com/axfree/wecatch-cjk-revanced-patch
 https://github.com/ayushTNM/gmscore-patches
+https://github.com/bartlomiejfornalczyk/morphe-patches
 https://github.com/bawr/revanced-patches
 https://github.com/bdgerszewski/morphe-patches-ihealth
 https://github.com/bearinmindcat/morphe-patches
@@ -222,6 +226,7 @@ https://github.com/fangkampanat/gmaps-patches
 https://github.com/feixiangdao/letterboxd-stremio-nuvio-morphe-patch
 https://github.com/forsyth47/revanced-patches
 https://github.com/franticg33k/morphe-patches
+https://github.com/ggYasin/ggyasin-morphe-patches
 https://github.com/giaaaacomo/nifty-patches-selection
 https://github.com/h19e8p/auto-expand-for-x
 https://github.com/hackingguy/morphe-patches
@@ -265,6 +270,7 @@ https://github.com/kuchingneko28/ipusnas-patches
 https://github.com/kun-codes/npci-bhim-morphe-patches
 https://github.com/kuntal-devrat/diskwala-patches
 https://github.com/kveld9/kveld-morphe-patches
+https://github.com/latanvillegas/lawnchair-morphe-patches
 https://github.com/lchanc3/morphe-patches
 https://github.com/legendsciber/morphe-patches
 https://github.com/lennyRBLX/apk-patches
@@ -331,7 +337,9 @@ https://github.com/theabhishekbhujang/morphe-patches
 https://github.com/thegibbonn/morphe-patches-anilili
 https://github.com/thejaustin/smartlauncher-morphe-patches
 https://github.com/tiaruebar1024/tiaruebar-patches
+https://github.com/tkiethuynh/den-patch
 https://github.com/totsiaw/proxma-patches
+https://github.com/trivisa-itihasa/uyu
 https://github.com/variablenine/morphe-patches
 https://github.com/vasyl91/Expose-like-status-in-MediaSession
 https://github.com/vinceTheProgrammer/sticknodes-patches
