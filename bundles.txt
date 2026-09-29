@@ -170,6 +170,7 @@ https://github.com/atticadayz/tiktok-mini-drama-revanced-patch
 https://github.com/ausamnco/gboard-enc-patches
 https://github.com/axfree/wecatch-cjk-revanced-patch
 https://github.com/ayushTNM/gmscore-patches
+https://github.com/bakwudo/uyu
 https://github.com/bartlomiejfornalczyk/morphe-patches
 https://github.com/bawr/revanced-patches
 https://github.com/bdgerszewski/morphe-patches-ihealth
@@ -285,6 +286,7 @@ https://github.com/loskutov/youtube-domain-fronting-patch
 https://github.com/lyyako/realme-link-patches
 https://github.com/madhu-gowda6/atharv-patches
 https://github.com/mahirsn/mahirsn-patches
+https://github.com/matthewclso/chrome-morphe
 https://github.com/meridianfresco/morphe-meta-patches
 https://github.com/mich111discord/MightyMichs-Patches
 https://github.com/mohamedamrnady/anghami-patches
