@@ -1,4 +1,5 @@
 https://github.com/0-BlackSpectrum-0/channel-blacklist-patch
+https://github.com/0x0day-0wl/morphe-patches
 https://github.com/1fexd/revanced-patches
 https://github.com/4831c0/custom-revanced-patches
 https://github.com/6ixfalls/revanced-patches
@@ -27,6 +28,7 @@ https://github.com/BlazeFTL/FTL-Patches
 https://github.com/BlazeFTL/Morphe-Portal-Patches-New
 https://github.com/BlueDragon4251/tiktok-patches-for-morphe
 https://github.com/BrayDog2010/morphe-patches
+https://github.com/Bugg4/bugg4s-patches
 https://github.com/Canic/twitch-morphe-patch
 https://github.com/CasketPizza/morphe-waze-system-tts
 https://github.com/ComoEstaisAmigos/ck-zombies-morphe-patches
@@ -109,6 +111,7 @@ https://github.com/RoundSalmon4/morphe-patches-template
 https://github.com/Santodan/santodan-patches
 https://github.com/SapitoSucio/FroggoMorphePatches
 https://github.com/SatanMerde/D-moniakPatches
+https://github.com/Satwik-Miyyapuram/morphe-patches
 https://github.com/Seobject/Seobject-patches
 https://github.com/SergeyBelentev/voice-over-translation-revanced
 https://github.com/Sfehhrths/ekispert-morphe-patches
@@ -119,6 +122,7 @@ https://github.com/SouBryan/pinterest-morphed
 https://github.com/Supperelias2/sbs-morphe-patches
 https://github.com/Supperelias2/sbs-tv-morphe-patches
 https://github.com/SysAdminDoc/HushMessenger
+https://github.com/SysAdminDoc/HushThreads
 https://github.com/SysAdminDoc/Hushfacebook
 https://github.com/SysAdminDoc/hushfeed
 https://github.com/Taknok/revanced-patches
