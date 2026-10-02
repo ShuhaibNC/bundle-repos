@@ -71,6 +71,7 @@ https://github.com/Jl4cTuk/morphe-patches
 https://github.com/JonnyVR1/morph-patches
 https://github.com/Joristdh/Platypatch
 https://github.com/Joussflls10/Jouss-Patches
+https://github.com/K8R8TO/kizu-morphe-patches
 https://github.com/KR1901/sofascore-font-revanced
 https://github.com/Kecerim24/morphe-patches
 https://github.com/LDP924/qqmusic-proxy
@@ -121,7 +122,9 @@ https://github.com/Solvo37/vk-video-morphe-patches
 https://github.com/SouBryan/pinterest-morphed
 https://github.com/Supperelias2/sbs-morphe-patches
 https://github.com/Supperelias2/sbs-tv-morphe-patches
+https://github.com/SysAdminDoc/HushGram
 https://github.com/SysAdminDoc/HushMessenger
+https://github.com/SysAdminDoc/HushTelegram
 https://github.com/SysAdminDoc/HushThreads
 https://github.com/SysAdminDoc/Hushfacebook
 https://github.com/SysAdminDoc/hushfeed
@@ -131,6 +134,7 @@ https://github.com/TheRealCrazyfuy/abeja-morphe-patches
 https://github.com/ThetaBird/revanced-telemetry
 https://github.com/Thewanwan/bestapp
 https://github.com/TimBuckrue/nyt-games-vrr-patch
+https://github.com/ToThangGTVT/morphe-fb-lite
 https://github.com/Tornillo2/movistar-block-ads-morphe
 https://github.com/Tosox/revanced-patches
 https://github.com/Trimpsuz/morphe-busuu
@@ -198,6 +202,7 @@ https://github.com/catsmoker/anime-witcher-patches
 https://github.com/cesbar/zpatches
 https://github.com/ch3thanhs/stylus
 https://github.com/chicco-carone/morphe-patches-chicco
+https://github.com/chikuwadon/nicoid-re-patches
 https://github.com/chukfinley/tidal-patches
 https://github.com/cingxcong/morphe.patches.telegram
 https://github.com/ciraolone/morphe-watch-later
