@@ -108,6 +108,7 @@ https://github.com/Quantro100/Morphe-patches
 https://github.com/RabehX/rabehx-patches
 https://github.com/Ripthulhu/morphe-google-patches
 https://github.com/RookieEnough/De-ReVanced
+https://github.com/Rosaldivo/rosaldivo-morphe-patches
 https://github.com/RoundSalmon4/morphe-patches-template
 https://github.com/Santodan/santodan-patches
 https://github.com/SapitoSucio/FroggoMorphePatches
