@@ -1,6 +1,7 @@
 https://github.com/0-BlackSpectrum-0/channel-blacklist-patch
 https://github.com/0x0day-0wl/morphe-patches
 https://github.com/1fexd/revanced-patches
+https://github.com/2eno/2eno-patches
 https://github.com/4831c0/custom-revanced-patches
 https://github.com/6ixfalls/revanced-patches
 https://github.com/Adish08/morphe-patches
@@ -26,6 +27,7 @@ https://github.com/BakasuraRCE/bakasura-patches
 https://github.com/BholeyKaBhakt/android-patches-xtra
 https://github.com/BlazeFTL/FTL-Patches
 https://github.com/BlazeFTL/Morphe-Portal-Patches-New
+https://github.com/Blazko381/Luna-TV-device-comp-patch-and-no-lag
 https://github.com/BlueDragon4251/tiktok-patches-for-morphe
 https://github.com/BrayDog2010/morphe-patches
 https://github.com/Bugg4/bugg4s-patches
@@ -36,11 +38,13 @@ https://github.com/D4NZ-jpg/revanced-patches
 https://github.com/Dan1elTheMan1el/Morphe-Patches
 https://github.com/DarioDKM/ringconn-patches
 https://github.com/Deadly-Bytes/redflagdeals-revanced-patches
+https://github.com/DigitalPals/johns-morphe-patches
 https://github.com/Docbt/patched-up
 https://github.com/Dr4w/morphe-patches
 https://github.com/Educal72/educal-patches
 https://github.com/Entree3k/Morning-Entree-Patches
 https://github.com/Epxec/android-patches
+https://github.com/Error404rt/Anixart-patches
 https://github.com/Faith001/revanced-molten-glass
 https://github.com/FoxxoOwO/foxxo-patches
 https://github.com/Freeman022026/rustore-privacy-patches
@@ -74,6 +78,7 @@ https://github.com/Joussflls10/Jouss-Patches
 https://github.com/K8R8TO/kizu-morphe-patches
 https://github.com/KR1901/sofascore-font-revanced
 https://github.com/Kecerim24/morphe-patches
+https://github.com/Kero309x/anghamiplus-patches
 https://github.com/LDP924/qqmusic-proxy
 https://github.com/LOCKhart07/morphe-patches
 https://github.com/LaBlazer/morphe-patches
@@ -89,8 +94,6 @@ https://github.com/MohamedElnaggar00/morphe-patches-tiktok-lite-only
 https://github.com/MojiRS/revanced-rif-patches
 https://github.com/MoonShadowKeeper/Telegram-patchesMorphe
 https://github.com/MorpheApp/morphe-patches
-https://github.com/Nai64/Nai64ExtraPatches
-https://github.com/Nai64/Nai64Patches
 https://github.com/NekoGryphou/gryphous-morphe-patches
 https://github.com/Nerahikada/asken-patches
 https://github.com/NextStepTeam/DnevnikNextPatch
@@ -103,8 +106,10 @@ https://github.com/PixelPusher247/morphe-patches
 https://github.com/Plyrs1/morphe-patches
 https://github.com/PrathxmOp/Prathxm-Patches
 https://github.com/PrathxmOp/ytmusic-patches
+https://github.com/Psyquix/Morphe-patches
 https://github.com/PyFlat-JR/Morphe-Patches
 https://github.com/Quantro100/Morphe-patches
+https://github.com/R2bEEaton/walmart-morphe
 https://github.com/RabehX/rabehx-patches
 https://github.com/Ripthulhu/morphe-google-patches
 https://github.com/RookieEnough/De-ReVanced
@@ -225,6 +230,7 @@ https://github.com/dbhavsar76/revanced-patches
 https://github.com/debakarr/morphe-patches
 https://github.com/dh6k/morphe-patches
 https://github.com/dhrubonai/morphe-patches
+https://github.com/dongmin8350/fmkorea-splash-patches
 https://github.com/dowjames/morphe-patches
 https://github.com/drnhzn/supreme-patches
 https://github.com/drosoCode/morphe-patches
@@ -248,9 +254,11 @@ https://github.com/ggYasin/ggyasin-morphe-patches
 https://github.com/giaaaacomo/nifty-patches-selection
 https://github.com/h19e8p/auto-expand-for-x
 https://github.com/hackingguy/morphe-patches
+https://github.com/hammadhassan94/ary-live
 https://github.com/hashtagbasit/aimal-patches
 https://github.com/headboy99/headboy-morphe-patches
 https://github.com/heval99/Heval-Morphe-Patches
+https://github.com/heyymichii/michii-patches
 https://github.com/hhawkinsau/hh-patches
 https://github.com/homelander11/beetle-patches
 https://github.com/hoo-dles/revanced-custom-patches
@@ -312,6 +320,7 @@ https://github.com/mvaishak/letterboxd-morphe-patches
 https://github.com/mxkrgt/dbtcoach-morphe-patches
 https://github.com/newuser7171/telegram-morphe-patches-
 https://github.com/nickcomua/airofit-pro2-morphe-patches
+https://github.com/niposch/revanced-tiktok-patches
 https://github.com/non7043/365score-patches
 https://github.com/ns1207/morphe-patches-template
 https://github.com/nuc134r/yandex-ads-patches
@@ -319,6 +328,7 @@ https://github.com/osirisad/teamSnap-patches
 https://github.com/permissionBRICK/youtube-home-assistant-patches
 https://github.com/phamleduy04/duy-patches
 https://github.com/picarica/My-moprhe-patches
+https://github.com/pigfoot/morphe-patches
 https://github.com/pixincreate/morpheus
 https://github.com/pmaxhogan/vantage-patches
 https://github.com/polka-bear/morphe-patches
@@ -351,6 +361,7 @@ https://github.com/sillyredsoup/reddit-morphe-patches
 https://github.com/simnple/revanced-patches
 https://github.com/sjshb57/pairip-patches
 https://github.com/skulldogged/cobalt-morphe
+https://github.com/snowyegret23/morphe-patches
 https://github.com/spicetify/morphe-patches
 https://github.com/spookyexe/morphe-patches
 https://github.com/subenoeva/roadsync-patches
@@ -378,12 +389,16 @@ https://github.com/xxxR3Dxxx/R3D-PatchLab
 https://github.com/yann-soliman/morphe-patches
 https://github.com/ymshin-dev/edge-window-patches
 https://github.com/ynotzort/morphe-patches
+https://github.com/ysamjo/ysamjo-rtlplus-patches
 https://github.com/ysamjo/ysamjo-youtubetv-patches
 https://github.com/zeldrisho/morphe-patches
 https://gitlab.com/IMXEren/mix-patches
+https://gitlab.com/LOCKhart07/morphe-patches
 https://gitlab.com/Paresh-Maheshwari/paresh-patches
 https://gitlab.com/dhl0/morphe-patches
 https://gitlab.com/early.egg3707/ee-morphe-patches
 https://gitlab.com/gltieo/revanced-patches
 https://gitlab.com/inotia00/proguard-patches
 https://gitlab.com/inotia00/x-shim
+https://gitlab.com/kmru/nai64extrapatches
+https://gitlab.com/kmru/nai64patches
