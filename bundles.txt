@@ -18,6 +18,7 @@ https://github.com/Apostolique/apos-morphe-patches
 https://github.com/Arsylk/arsylk-patches
 https://github.com/BDCrusher/tiktok-interaction-addons
 https://github.com/BakasuraRCE/bakasura-patches
+https://github.com/Berkelyum9/reddit-nsfw-only
 https://github.com/BholeyKaBhakt/android-patches-xtra
 https://github.com/BlazeFTL/FTL-Patches
 https://github.com/BlazeFTL/Morphe-Portal-Patches-New
@@ -141,6 +142,7 @@ https://github.com/WaggBR/Wagg13Patch_Morphe
 https://github.com/WalkTheEarth/morphe-ytvr-patches
 https://github.com/XTapped/morphe-patches
 https://github.com/Xhehab/Xhehab-Patches
+https://github.com/Xittered/xitter-morphe
 https://github.com/YYDarlinker/morphe-ai-caption-translator
 https://github.com/Z-drgon/morphe-patches
 https://github.com/Zanuaimi/UniPatches
@@ -208,6 +210,8 @@ https://github.com/csagataj2/morphe-patches
 https://github.com/d0nj/morphe-patches
 https://github.com/dalapenko/perplexity-stt-android-patches
 https://github.com/dalapenko/yt-ya.voiceover-android-patches
+https://github.com/danieleavolio/cinemaniac-patches
+https://github.com/danieleavolio/column-patches
 https://github.com/david419kr/niconico-yt-morphe-patches
 https://github.com/debakarr/morphe-patches
 https://github.com/dh6k/morphe-patches
@@ -356,6 +360,7 @@ https://github.com/tachibana-shin/morphe-patches
 https://github.com/testiwy268/morphe-patches
 https://github.com/theabhishekbhujang/morphe-patches
 https://github.com/thegibbonn/morphe-patches-anilili
+https://github.com/thrkingunknown/brave-immersive-statusbar
 https://github.com/tiaruebar1024/tiaruebar-patches
 https://github.com/tikkamasalla/stremio-intro-skip
 https://github.com/totsiaw/proxma-patches
