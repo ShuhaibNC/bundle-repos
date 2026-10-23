@@ -29,7 +29,6 @@ https://github.com/BrayDog2010/morphe-patches
 https://github.com/Bugg4/bugg4s-patches
 https://github.com/ByXuXy88/wallapop-oled-noads-patches
 https://github.com/Canic/twitch-morphe-patch
-https://github.com/CappyT/cappys-patches
 https://github.com/CasketPizza/morphe-waze-system-tts
 https://github.com/ComoEstaisAmigos/ck-zombies-morphe-patches
 https://github.com/Dabrogost/InfinityPlus-Patches
@@ -208,7 +207,6 @@ https://github.com/chicco-carone/morphe-patches-chicco
 https://github.com/chikuwadon/nicoid-re-patches
 https://github.com/chukfinley/tidal-patches
 https://github.com/ciraolone/morphe-watch-later
-https://github.com/codeghost-glitch/codeghost-patches
 https://github.com/commit-regrets/morphe-youtube-vr-patches
 https://github.com/crimera/piko
 https://github.com/crimera/piko-ig-lite
