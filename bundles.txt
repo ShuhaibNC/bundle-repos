@@ -59,6 +59,7 @@ https://github.com/HellveticaStandard/HellveticaPatches
 https://github.com/Hepolise/LuckyToolPatches
 https://github.com/Hiosdra/morphe-patches
 https://github.com/HvQ/eksi-morphe
+https://github.com/Ikuradachi/pancake-patches
 https://github.com/ImEnigma2x0/morphe-maloja-patch
 https://github.com/ImmortalZeus/ImmortalZeus-Morphe-Patches
 https://github.com/IndusAryan/twitter-patches
@@ -88,6 +89,7 @@ https://github.com/MaebashiRamens/mtga
 https://github.com/MarcaDian/morphe-patches-yavot
 https://github.com/MiguelNinja19/miguel-morphe-patches
 https://github.com/MoonShadowKeeper/Telegram-patchesMorphe
+https://github.com/Mouchoir/sound-connect-patches
 https://github.com/NekoGryphou/gryphous-morphe-patches
 https://github.com/NextStepTeam/DnevnikNextPatch
 https://github.com/Nezumi-2711/morphe-patches
@@ -102,6 +104,7 @@ https://github.com/PixelPusher247/morphe-patches
 https://github.com/Plyrs1/morphe-patches
 https://github.com/PrathxmOp/Prathxm-Patches
 https://github.com/PrathxmOp/ytmusic-patches
+https://github.com/Prisoner-24601/custom-morphe-patches
 https://github.com/Psyquix/Morphe-patches
 https://github.com/PyFlat-JR/Morphe-Patches
 https://github.com/Quantro100/Morphe-patches
@@ -173,6 +176,7 @@ https://github.com/alim-zanibekov/ultrasandbox
 https://github.com/almewty/my-morphe-patches
 https://github.com/ameenalasady/ameen-morphe
 https://github.com/ameenalasady/photogrid-morphe
+https://github.com/amfakh/fakh-radio-patches
 https://github.com/andersonlucasg3/PetalMaps-NonHuawei
 https://github.com/andrewliang25/morphe-patches
 https://github.com/andronedev/morphe-patches
@@ -346,20 +350,24 @@ https://github.com/rafag00/morphe-patches
 https://github.com/rahaaatul/morphe-patches
 https://github.com/rahul9999xda/morphe-patches
 https://github.com/raphaelbahat/zotero-self-hosted-sync
+https://github.com/ratatabananana-bit/gaming-hub-morphe-patches
 https://github.com/realcyberwash/max-patches
 https://github.com/rhubarbshoelaces/morphe-patches
 https://github.com/rikunode/pupil-swipe-disable-patches
 https://github.com/riky-dev/morphe-patches
 https://github.com/romanchukg-cloud/maps-automotive-for-byd-patches
+https://github.com/rudrakshrajpurohit417-sketch/RJ-reseam-patches
 https://github.com/rushiranpise/RI-Vanced-Universal-Morphe-Patches
 https://github.com/rushiranpise/morphe-patches
 https://github.com/ryuya0124/gemini-microg-patches
 https://github.com/ryykitty/twitch-patched
 https://github.com/sabbirexist/kodex-patches
 https://github.com/sabopura/sabopura-morphe-patches
+https://github.com/sagarkhansau19-svg/GinArena-patch
 https://github.com/sahilwasgood/patches
 https://github.com/saieshshirodkar/saiesh-morphe-patches
 https://github.com/sakarie9/BiliRoamingM
+https://github.com/sas-news/netease-ja
 https://github.com/sashade8-ship-it/dual-vot-patches
 https://github.com/shaun-the-sheep-patches/morphe-patches
 https://github.com/shini-cell/shini-morphe
@@ -381,7 +389,9 @@ https://github.com/thrkingunknown/brave-immersive-statusbar
 https://github.com/tiaruebar1024/tiaruebar-patches
 https://github.com/tikkamasalla/stremio-intro-skip
 https://github.com/titandrive/morphe-catppuccin
+https://github.com/toidicakhia/morphe-app-patches
 https://github.com/totsiaw/proxma-patches
+https://github.com/urroxyz/morphe-patches
 https://github.com/variablenine/morphe-patches
 https://github.com/vasyl91/Expose-like-status-in-MediaSession
 https://github.com/vinceTheProgrammer/sticknodes-patches
@@ -391,6 +401,7 @@ https://github.com/warleysr/reddit-nsfw-blocker
 https://github.com/wchill/patcheddit
 https://github.com/wchill/rvx-morphed
 https://github.com/wonjoonSeol-WS/morphe-patches
+https://github.com/wouter075/buienradar-patches
 https://github.com/xob0t/morphe-patches
 https://github.com/xxxR3Dxxx/R3D-PatchLab
 https://github.com/yann-soliman/morphe-patches
