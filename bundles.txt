@@ -1,9 +1,11 @@
 https://github.com/0-BlackSpectrum-0/channel-blacklist-patch
 https://github.com/020krJ/morpheArc
 https://github.com/0x0day-0wl/morphe-patches
+https://github.com/0xBaselessProjects/morphe-patches
 https://github.com/0xtalos/365score-patches
 https://github.com/2eno/morphe-patches
 https://github.com/Adish08/morphe-patches
+https://github.com/AetherMagee/xposed-patches
 https://github.com/Akash-Sriram/morphe-google-photos
 https://github.com/Akshayykadam/Pixel-Camera
 https://github.com/Akshayykadam/PixelBoard
@@ -76,7 +78,6 @@ https://github.com/Jl4cTuk/morphe-patches
 https://github.com/JoanComasFdz/baconreader-morphe-patches
 https://github.com/JoanComasFdz/baconreader-reseam-patches
 https://github.com/JonnyVR1/morph-patches
-https://github.com/Joussflls10/Jouss-Patches
 https://github.com/Juankyyy/morphe-patches
 https://github.com/K8R8TO/kizu-morphe-patches
 https://github.com/Kal-xyz/viber-morphe-patches
@@ -147,6 +148,7 @@ https://github.com/Trimpsuz/morphe-busuu
 https://github.com/UnkyBadTouch/plex-morphe-patches
 https://github.com/V4n1X/morphe-patches
 https://github.com/Vakarux12/raid-judu-patches
+https://github.com/Valenced/valenced
 https://github.com/VenusIsJaded/Venus-Patches
 https://github.com/VinkyV/AppleMusicPatches
 https://github.com/VipinVIP/railone-patches
@@ -303,6 +305,7 @@ https://github.com/kolaron/morphe-patches
 https://github.com/kondratjev/morphe-patches
 https://github.com/kuchingneko28/ipusnas-patches
 https://github.com/kuntal-devrat/diskwala-patches
+https://github.com/kurageno8156-lgtm/tiktok-lite-patches
 https://github.com/kveld9/kveld-extra-morphe-patches
 https://github.com/kveld9/kveld-morphe-patches
 https://github.com/latanvillegas/lawnchair-morphe-patches
@@ -321,8 +324,10 @@ https://github.com/madhu-gowda6/atharv-patches
 https://github.com/madkarmaa/reseam-patches
 https://github.com/madushas/pdb_patch
 https://github.com/mahirsn/mahirsn-patches
+https://github.com/markpaul099/gboard-extended-search
 https://github.com/matthewclso/chrome-morphe
 https://github.com/meridianfresco/morphe-meta-patches
+https://github.com/mich-de/openlauncher
 https://github.com/mich111discord/MightyMichs-Patches
 https://github.com/mohamedamrnady/anghami-patches
 https://github.com/morpheapp/morphe-patches
@@ -336,6 +341,7 @@ https://github.com/ns1207/morphe-patches-template
 https://github.com/nuc134r/yandex-ads-patches
 https://github.com/o0b/morphe-patches
 https://github.com/osirisad/teamSnap-patches
+https://github.com/oviron/VK-IM
 https://github.com/pengusto/penguin-patches
 https://github.com/permissionBRICK/youtube-home-assistant-patches
 https://github.com/phamleduy04/duy-patches
