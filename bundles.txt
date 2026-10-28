@@ -1,9 +1,9 @@
 https://github.com/0-BlackSpectrum-0/channel-blacklist-patch
 https://github.com/020krJ/morpheArc
 https://github.com/0x0day-0wl/morphe-patches
-https://github.com/0xBaselessProjects/morphe-patches
 https://github.com/0xtalos/365score-patches
 https://github.com/2eno/morphe-patches
+https://github.com/6jarjar6/morphe-patches
 https://github.com/Adish08/morphe-patches
 https://github.com/AetherMagee/xposed-patches
 https://github.com/Akash-Sriram/morphe-google-photos
@@ -133,6 +133,7 @@ https://github.com/SouBryan/pinterest-morphed
 https://github.com/Sudashiii/servus-patches
 https://github.com/Supperelias2/sbs-morphe-patches
 https://github.com/Supperelias2/sbs-tv-morphe-patches
+https://github.com/Sylonin/xposed-newx-patches
 https://github.com/SysAdminDoc/HushGram
 https://github.com/SysAdminDoc/HushMessenger
 https://github.com/SysAdminDoc/HushPinterest
@@ -197,9 +198,11 @@ https://github.com/ariecos/gemini-patches
 https://github.com/arter97/voicenote-morphe
 https://github.com/ausamnco/gboard-enc-patches
 https://github.com/ayushtnm/gmscore-patches
+https://github.com/azain47/blackmagic-camera-patches
 https://github.com/bakwudo/uyu
 https://github.com/balu100/GoogleDialerEnableCallRecording
 https://github.com/bartlomiejfornalczyk/morphe-patches
+https://github.com/bastlam/trax_morphe_patches
 https://github.com/bdgerszewski/morphe-patches-ihealth
 https://github.com/bearinmindcat/morphe-patches
 https://github.com/bennytsai1234/youtube-thread-ripper
@@ -215,6 +218,7 @@ https://github.com/bruddaa/bruddas-morphe-patches
 https://github.com/bufferk/morphe-patches
 https://github.com/burakdede0/SyncPatch
 https://github.com/byehi98/okish-morphe-patches
+https://github.com/ca-za/morphe-yt-dlna
 https://github.com/callMeBeyonder/morphe-patches
 https://github.com/canh0chua/Morphe-patches
 https://github.com/catsmoker/anime-witcher-patches
@@ -330,7 +334,7 @@ https://github.com/madhu-gowda6/atharv-patches
 https://github.com/madkarmaa/reseam-patches
 https://github.com/madushas/pdb_patch
 https://github.com/mahirsn/mahirsn-patches
-https://github.com/markpaul099/gboard-extended-search
+https://github.com/markpaul099/gboard-gifs-extended
 https://github.com/matthewclso/chrome-morphe
 https://github.com/meridianfresco/morphe-meta-patches
 https://github.com/mich-de/openlauncher
@@ -388,6 +392,7 @@ https://github.com/snowyegret23/morphe-patches
 https://github.com/spicetify/morphe-patches
 https://github.com/spookyexe/morphe-patches
 https://github.com/sqzass/patches
+https://github.com/steeepaaaan/pdalife-morphe-patches
 https://github.com/sti-233/BiliRoamingX
 https://github.com/subenoeva/roadsync-patches
 https://github.com/sudeepcapri/morphe_patch
@@ -409,6 +414,7 @@ https://github.com/variablenine/morphe-patches
 https://github.com/vasyl91/Expose-like-status-in-MediaSession
 https://github.com/vinceTheProgrammer/sticknodes-patches
 https://github.com/virzak/morphe-patches
+https://github.com/visionxstream99-mod/RJ-reseam-patches
 https://github.com/vladon/morphe-patches-navi
 https://github.com/warleysr/reddit-nsfw-blocker
 https://github.com/wchill/patcheddit
@@ -421,3 +427,4 @@ https://github.com/yann-soliman/morphe-patches
 https://github.com/ymshin-dev/edge-window-patches
 https://github.com/ynotzort/morphe-patches
 https://github.com/zeldrisho/morphe-patches
+https://github.com/zenthora/drtv-morphe-patches
