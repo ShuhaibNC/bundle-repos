@@ -60,6 +60,7 @@ https://github.com/HelioFloxZ/HelioFloxZ-Patches
 https://github.com/HellLord77/media-patches
 https://github.com/HellveticaStandard/HellveticaPatches
 https://github.com/Hepolise/LuckyToolPatches
+https://github.com/Hexclyde/bitchord-morphe-patches
 https://github.com/Hiosdra/morphe-patches
 https://github.com/HvQ/eksi-morphe
 https://github.com/Ikuradachi/pancake-patches
@@ -97,10 +98,12 @@ https://github.com/NextStepTeam/DnevnikNextPatch
 https://github.com/Nezumi-2711/morphe-patches
 https://github.com/NullWaypoint/morphe-patches
 https://github.com/Okazakee/iptv-morphe-patches
+https://github.com/Overhypedcat/overhypedcat-twitch-patches
 https://github.com/Pa-kon/morphe-screenshot-patches
 https://github.com/PawiX25/pepper-morphe-patches
 https://github.com/PerfLite/VK-Zen
 https://github.com/PerfLite/morphe-patches-zona
+https://github.com/Piel-M/piko-gif-patch
 https://github.com/Pilotkosinus/morphe-waze-patches
 https://github.com/PixelPusher247/morphe-patches
 https://github.com/Plyrs1/morphe-patches
@@ -177,6 +180,7 @@ https://github.com/ak800i/mixplorer-patches-for-morphe
 https://github.com/akzzy/Morphi-Patcho
 https://github.com/alalloush/xperia-1v-camera-patches
 https://github.com/alan7383/sofatime-patches
+https://github.com/alexandreL/morphe-patches
 https://github.com/alim-zanibekov/ultrasandbox
 https://github.com/almewty/my-morphe-patches
 https://github.com/ameenalasady/ameen-morphe
@@ -202,7 +206,7 @@ https://github.com/azain47/blackmagic-camera-patches
 https://github.com/bakwudo/uyu
 https://github.com/balu100/GoogleDialerEnableCallRecording
 https://github.com/bartlomiejfornalczyk/morphe-patches
-https://github.com/bastlam/trax_morphe_patches
+https://github.com/bastlam/trax_patches
 https://github.com/bdgerszewski/morphe-patches-ihealth
 https://github.com/bearinmindcat/morphe-patches
 https://github.com/bennytsai1234/youtube-thread-ripper
@@ -246,6 +250,7 @@ https://github.com/dieroboter/morphe-patches
 https://github.com/docbt/patched-up
 https://github.com/dongmin8350/fmkorea-splash-patches
 https://github.com/dowjames/morphe-patches
+https://github.com/drappula/morphe-patches-instaprime
 https://github.com/drnhzn/supreme-patches
 https://github.com/drosoCode/morphe-patches
 https://github.com/dumb-software/T2C-App-Patch-Morphe
@@ -283,6 +288,7 @@ https://github.com/humzakh/HK-Morphe-Patches
 https://github.com/hxreborn/hxreborn-tiktok-patches
 https://github.com/hxreborn/morphe-patches
 https://github.com/hyperstown/maps-patches
+https://github.com/hyzor/hyzor-morphe-patches
 https://github.com/hzbutcoding/sn-patching
 https://github.com/icysymmetra/tiktok-patches-for-morphe
 https://github.com/ihatenodejs/aidans-patches
@@ -318,7 +324,6 @@ https://github.com/kuntal-devrat/diskwala-patches
 https://github.com/kurageno8156-lgtm/tiktok-lite-patches
 https://github.com/kveld9/kveld-extra-morphe-patches
 https://github.com/kveld9/kveld-morphe-patches
-https://github.com/latanvillegas/lawnchair-morphe-patches
 https://github.com/lchanc3/morphe-patches
 https://github.com/legendsciber/morphe-patches
 https://github.com/lennyRBLX/apk-patches
@@ -340,6 +345,7 @@ https://github.com/meridianfresco/morphe-meta-patches
 https://github.com/mich-de/openlauncher
 https://github.com/mich111discord/MightyMichs-Patches
 https://github.com/mohamedamrnady/anghami-patches
+https://github.com/mormislaw/zeekr-adapt-morphe-patches
 https://github.com/morpheapp/morphe-patches
 https://github.com/mvaishak/letterboxd-morphe-patches
 https://github.com/mxkrgt/dbtcoach-morphe-patches
@@ -352,6 +358,7 @@ https://github.com/nuc134r/yandex-ads-patches
 https://github.com/o0b/morphe-patches
 https://github.com/osirisad/teamSnap-patches
 https://github.com/oviron/VK-IM
+https://github.com/paruo/yahoo-transit-morphe-patch
 https://github.com/pengusto/penguin-patches
 https://github.com/permissionBRICK/youtube-home-assistant-patches
 https://github.com/phamleduy04/duy-patches
@@ -424,6 +431,7 @@ https://github.com/wouter075/buienradar-patches
 https://github.com/xob0t/morphe-patches
 https://github.com/xxxR3Dxxx/R3D-PatchLab
 https://github.com/yann-soliman/morphe-patches
+https://github.com/yashsehrawatdelete550-dotg/instagram-custom-branding-patches
 https://github.com/ymshin-dev/edge-window-patches
 https://github.com/ynotzort/morphe-patches
 https://github.com/zeldrisho/morphe-patches
