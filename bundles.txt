@@ -85,6 +85,8 @@ https://github.com/Juankyyy/morphe-patches
 https://github.com/K8R8TO/kizu-morphe-patches
 https://github.com/Kal-xyz/viber-morphe-patches
 https://github.com/Kecerim24/morphe-patches
+https://github.com/Kekimurus/GCamVBoost
+https://github.com/Kirkland-Pickles/Gboard-offline-morphe-test
 https://github.com/LaBlazer/morphe-patches
 https://github.com/LaKakaReal/LaKakaShitPatches
 https://github.com/LeeeeT/bt-keepalive-patch
@@ -121,6 +123,7 @@ https://github.com/Quantro100/Morphe-patches
 https://github.com/Qutaiba-Khader/stremio-subs-patches
 https://github.com/R2bEEaton/walmart-morphe
 https://github.com/RabehX/rabehx-patches
+https://github.com/RashKash103/sync-up
 https://github.com/RikoDEV/morphed-pl
 https://github.com/Ripthulhu/morphe-google-patches
 https://github.com/RookieEnough/De-Vanced
@@ -210,6 +213,7 @@ https://github.com/arter97/voicenote-morphe
 https://github.com/ausamnco/gboard-enc-patches
 https://github.com/ayushtnm/gmscore-patches
 https://github.com/azain47/blackmagic-camera-patches
+https://github.com/azkiabenington/es-file-explorer-morphe-patches
 https://github.com/bakwudo/uyu
 https://github.com/balu100/GoogleDialerEnableCallRecording
 https://github.com/bartlomiejfornalczyk/morphe-patches
@@ -267,6 +271,7 @@ https://github.com/durgesh0505/chiggi_morphe_patches
 https://github.com/eZ4RK0/morphe-patches
 https://github.com/ekazrahul100-web/redgifs-audio-patch
 https://github.com/emotionbug/EBPatcher-patches
+https://github.com/encarnian/gboard-enc-patches
 https://github.com/enccmp/mn-patches
 https://github.com/epabafree/sabp-eppy-patches
 https://github.com/ethan-manny/spotify-tv-crossfade
@@ -314,6 +319,7 @@ https://github.com/janowakps/morphe-patches-action
 https://github.com/jaredcat/morphe-patches
 https://github.com/jasonwu1994/Gboard-patches
 https://github.com/jaydenluuuu-sys/line-font-patches
+https://github.com/jibon-k/notes-morphe-patches
 https://github.com/jjjusf16-sys/3jPatch_Morphe
 https://github.com/jkennethcarino/adobo
 https://github.com/johnneerdael/buienalarm-patches
@@ -342,9 +348,9 @@ https://github.com/loan-mgt/moovit-patch
 https://github.com/logm1lo/logm1lo-patches
 https://github.com/loody227/masajid-patches
 https://github.com/lootdev78/psylos-morphe-patches
+https://github.com/lorizisback/morphe-patches
 https://github.com/loskutov/youtube-domain-fronting-patch
 https://github.com/lyyako/realme-link-patches
-https://github.com/maayan080/maayan-discord-patches
 https://github.com/madhu-gowda6/atharv-patches
 https://github.com/madkarmaa/reseam-patches
 https://github.com/madushas/pdb_patch
@@ -368,7 +374,6 @@ https://github.com/ns1207/morphe-patches-template
 https://github.com/nuc134r/yandex-ads-patches
 https://github.com/o0b/morphe-patches
 https://github.com/osirisad/teamSnap-patches
-https://github.com/paruo/yahoo-transit-morphe-patch
 https://github.com/pengusto/penguin-patches
 https://github.com/permissionBRICK/youtube-home-assistant-patches
 https://github.com/phamleduy04/duy-patches
@@ -407,6 +412,7 @@ https://github.com/shini-cell/shini-morphe
 https://github.com/sillyredsoup/reddit-morphe-patches
 https://github.com/sjshb57/pairip-patches
 https://github.com/snowyegret23/morphe-patches
+https://github.com/southstar21dev/southstar21-patches
 https://github.com/spicetify/morphe-patches
 https://github.com/spookyexe/morphe-patches
 https://github.com/sqzass/patches
@@ -417,6 +423,7 @@ https://github.com/sudeepcapri/morphe_patch
 https://github.com/sushruth/imgur-patches
 https://github.com/tachibana-shin/morphe-patches
 https://github.com/testiwy268/morphe-patches
+https://github.com/the-nelsonator/custom-morphe-patches
 https://github.com/theabhishekbhujang/morphe-patches
 https://github.com/thegibbonn/morphe-patches-anilili
 https://github.com/theol-git/morphe-patches
@@ -426,12 +433,12 @@ https://github.com/tikkamasalla/stremio-intro-skip
 https://github.com/titandrive/morphe-catppuccin
 https://github.com/toidicakhia/morphe-app-patches
 https://github.com/totsiaw/proxma-patches
+https://github.com/trulow/sync-reddit-fixes
 https://github.com/urroxyz/morphe-patches
 https://github.com/v1rtu0s/morphe-patches
 https://github.com/variablenine/morphe-patches
 https://github.com/vasyl91/Expose-like-status-in-MediaSession
 https://github.com/vinceTheProgrammer/sticknodes-patches
-https://github.com/virzak/morphe-patches
 https://github.com/visionxstream99-mod/RJ-reseam-patches
 https://github.com/vladon/morphe-patches-navi
 https://github.com/warleysr/reddit-nsfw-blocker
