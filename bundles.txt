@@ -14,6 +14,7 @@ https://github.com/Alexvbp/f1tv-patches
 https://github.com/Allvoid/arsound
 https://github.com/AlonResearch/moodle-browser-login-patch
 https://github.com/Amitaisela/travian-morphe-patches
+https://github.com/AnTo88-svg/YT-Music-Morphe-Pitch-Patch
 https://github.com/AngelDark92/steamlink-patches
 https://github.com/Aorus22/twitter-bookmarker
 https://github.com/Apostolique/apos-morphe-patches
@@ -39,7 +40,6 @@ https://github.com/Dabrogost/InfinityPlus-Patches
 https://github.com/Dan1elTheMan1el/Morphe-Patches
 https://github.com/DigitalPals/johns-morphe-patches
 https://github.com/DiogoGra/morphe-patches
-https://github.com/Dreaming-Codes/morphe-patches
 https://github.com/Educal72/educal-patches
 https://github.com/Entree3k/Morning-Entree-Patches
 https://github.com/Epxec/android-patches
@@ -107,6 +107,7 @@ https://github.com/MrRaita/Karma-Patches
 https://github.com/NekoGryphou/gryphous-morphe-patches
 https://github.com/NextStepTeam/DnevnikNextPatch
 https://github.com/Nezumi-2711/morphe-patches
+https://github.com/Nich87/nich87-patches
 https://github.com/NullWaypoint/morphe-patches
 https://github.com/Okazakee/iptv-morphe-patches
 https://github.com/Overhypedcat/overhypedcat-twitch-patches
@@ -155,6 +156,7 @@ https://github.com/Supperelias2/sbs-tv-morphe-patches
 https://github.com/Sylonin/xposed-newx-patches
 https://github.com/SysAdminDoc/HushGram
 https://github.com/SysAdminDoc/HushMessenger
+https://github.com/SysAdminDoc/HushPine
 https://github.com/SysAdminDoc/HushPinterest
 https://github.com/SysAdminDoc/HushTelegram
 https://github.com/SysAdminDoc/HushThreads
@@ -227,7 +229,6 @@ https://github.com/azksama/aniskip-stremio
 https://github.com/bakwudo/uyu
 https://github.com/balu100/GoogleDialerEnableCallRecording
 https://github.com/bartlomiejfornalczyk/morphe-patches
-https://github.com/bastlam/trax_patches
 https://github.com/bdgerszewski/morphe-patches-ihealth
 https://github.com/bearinmindcat/morphe-patches
 https://github.com/bennytsai1234/youtube-thread-ripper
@@ -376,6 +377,7 @@ https://github.com/mayanksh3khar/nuvio-morphe-patches
 https://github.com/meridianfresco/morphe-meta-patches
 https://github.com/mich-de/openlauncher
 https://github.com/mich111discord/MightyMichs-Patches
+https://github.com/mmenzyns/morphe-patches
 https://github.com/mohamedamrnady/anghami-patches
 https://github.com/mormislaw/zeekr-adapt-morphe-patches
 https://github.com/morpheapp/morphe-patches
@@ -429,6 +431,7 @@ https://github.com/shaun-the-sheep-patches/morphe-patches
 https://github.com/shini-cell/shini-morphe
 https://github.com/sillyredsoup/reddit-morphe-patches
 https://github.com/sjshb57/pairip-patches
+https://github.com/sloewhite/sync-patch
 https://github.com/snowyegret23/morphe-patches
 https://github.com/southstar21dev/southstar21-patches
 https://github.com/spicetify/morphe-patches
