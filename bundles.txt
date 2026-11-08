@@ -2,6 +2,7 @@ https://github.com/0-BlackSpectrum-0/MAL-Patches
 https://github.com/0-BlackSpectrum-0/channel-blacklist-patch
 https://github.com/020krJ/morpheArc
 https://github.com/0x0day-0wl/morphe-patches
+https://github.com/0xRJDev/shikify
 https://github.com/0xtalos/365score-patches
 https://github.com/2eno/morphe-patches
 https://github.com/3kh0/slick-morphe
@@ -182,6 +183,7 @@ https://github.com/SapitoSucio/FroggoMorphePatches
 https://github.com/SatanMerde/D-moniakPatches
 https://github.com/Saurabh825/morphe-patches
 https://github.com/Seobject/Seobject-patches
+https://github.com/SeveriT/morphe-patches
 https://github.com/Sfehhrths/ekispert-morphe-patches
 https://github.com/Shahriar-0/Telegram-X-Morphe
 https://github.com/ShubhamJ010/gboard-clipboard-history
@@ -235,6 +237,7 @@ https://github.com/YYDarlinker/morphe-ai-caption-translator
 https://github.com/Z-drgon/morphe-patches
 https://github.com/Zanuaimi/UniPatches
 https://github.com/ZoomSass/Mighty-Morphing
+https://github.com/aayy-dev/patches
 https://github.com/abhis1n/Morphe-Patches
 https://github.com/adderalladmiral/psychonaut-journal-patches
 https://github.com/agrokenga/morphe-patches
@@ -290,6 +293,7 @@ https://github.com/brealorg/breal-morphe-patches
 https://github.com/brosssh/morphe-patches
 https://github.com/browzomje/browzomje-patches
 https://github.com/bruddaa/bruddas-morphe-patches
+https://github.com/bryceaspringfield/morphe
 https://github.com/bryceaspringfield/morphe-reddit-keyword-filter
 https://github.com/bufferk/morphe-patches
 https://github.com/burakdede0/SyncPatch
@@ -329,6 +333,7 @@ https://github.com/dowjames/morphe-patches
 https://github.com/drappula/morphe-patches-instaprime
 https://github.com/drnhzn/supreme-patches
 https://github.com/drosoCode/morphe-patches
+https://github.com/drtgrf/chefkoch-android-patches
 https://github.com/dumb-software/T2C-App-Patch-Morphe
 https://github.com/dumketo/multi-app-patches
 https://github.com/dunecache/oyasumi-patches
@@ -378,6 +383,7 @@ https://github.com/hzbutcoding/sn-patching
 https://github.com/icysymmetra/tiktok-patches-for-morphe
 https://github.com/ihatenodejs/aidans-patches
 https://github.com/ilikeadofai/vocacolle-morphe-patches
+https://github.com/ilikeadofai/vocacolle-reseam-patches
 https://github.com/indrastorms/dropped-patches
 https://github.com/ineednotitle/Proteus-Patches
 https://github.com/ispacecase/patchweaver
@@ -406,6 +412,7 @@ https://github.com/kanup4m/morphe-patches
 https://github.com/kareemlukitomo/morphe-patches
 https://github.com/kim20598/hakim-morphe-patches
 https://github.com/kiraio-moe/Lain-Patches
+https://github.com/kljjh/flyme-lyrics-patches
 https://github.com/kolaron/morphe-patches
 https://github.com/kondratjev/morphe-patches
 https://github.com/kuchingneko28/ipusnas-patches
@@ -433,6 +440,7 @@ https://github.com/madhu-gowda6/atharv-patches
 https://github.com/madkarmaa/reseam-patches
 https://github.com/madushas/pdb_patch
 https://github.com/mahirsn/mahirsn-patches
+https://github.com/maniesh-NR/Vogelkop-MorphePatches
 https://github.com/markpaul099/gboard-gifs-extended
 https://github.com/matthewclso/chrome-morphe
 https://github.com/mayanksh3khar/nuvio-morphe-patches
@@ -459,6 +467,7 @@ https://github.com/nuc134r/yandex-ads-patches
 https://github.com/o0b/morphe-patches
 https://github.com/osirisad/teamSnap-patches
 https://github.com/pablobaro/pablobaro-morphe-patches
+https://github.com/pardhu23/morphe-patches
 https://github.com/pengusto/penguin-patches
 https://github.com/permissionBRICK/youtube-home-assistant-patches
 https://github.com/phamleduy04/duy-patches
@@ -500,10 +509,12 @@ https://github.com/salmanbappi/Quwis-Patches
 https://github.com/sarvottam99/SARVO-Patches
 https://github.com/sas-news/netease-ja
 https://github.com/sashade8-ship-it/dual-vot-patches
+https://github.com/sazap10/sync-patches
 https://github.com/semicoloncolonel/mobile-morphe-patches
 https://github.com/sevenzip2/books-piko
 https://github.com/shaun-the-sheep-patches/morphe-patches
 https://github.com/shini-cell/shini-morphe
+https://github.com/shuili1013/GoogleMap-Morphe
 https://github.com/sillyredsoup/reddit-morphe-patches
 https://github.com/sjshb57/pairip-patches
 https://github.com/sk1nnnny/morphe-patche
@@ -548,6 +559,7 @@ https://github.com/vladon/morphe-patches-navi
 https://github.com/voznyiarsen/bakalari-morphe
 https://github.com/warleysr/instagram-patches
 https://github.com/warleysr/reddit-nsfw-blocker
+https://github.com/way-lo/waylo-patches
 https://github.com/wchill/patcheddit
 https://github.com/wchill/rvx-morphed
 https://github.com/weird-aftertaste/quetta-privacy-patches
@@ -560,7 +572,6 @@ https://github.com/xboyrex/rex-ig-lite
 https://github.com/xob0t/morphe-patches
 https://github.com/xxxR3Dxxx/R3D-PatchLab
 https://github.com/yann-soliman/morphe-patches
-https://github.com/yashsehrawatdelete550-dotg/instagram-custom-branding-patches
 https://github.com/ymshin-dev/edge-window-patches
 https://github.com/ynotzort/morphe-patches
 https://github.com/zeldrisho/morphe-patches
