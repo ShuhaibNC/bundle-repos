@@ -112,6 +112,7 @@ https://github.com/Jappyy/experiment-morphe-patch
 https://github.com/Jeff-tek/jeff-patches
 https://github.com/Jeroenimo02/Wordfeud-Word-Finder
 https://github.com/Jl4cTuk/morphe-patches
+https://github.com/Jo-Patches/jo-patches
 https://github.com/JoFSlash/quora-patches
 https://github.com/JoanComasFdz/baconreader-morphe-patches
 https://github.com/JoanComasFdz/baconreader-reseam-patches
@@ -167,6 +168,7 @@ https://github.com/Overhypedcat/overhypedcat-twitch-patches
 https://github.com/Pa-kon/morphe-screenshot-patches
 https://github.com/PawiX25/pepper-morphe-patches
 https://github.com/PerfLite/VK-Zen
+https://github.com/PerfLite/morphe-patches-MovieLab
 https://github.com/PerfLite/morphe-patches-vk-messenger
 https://github.com/PerfLite/morphe-patches-vk-video
 https://github.com/PerfLite/morphe-patches-zona
@@ -189,6 +191,7 @@ https://github.com/RabehX/rabehx-patches
 https://github.com/Rajdave69/rajs-morphe-patches
 https://github.com/RashKash103/sync-up
 https://github.com/RayBourn/medium
+https://github.com/Razor573/mika2-morphe-patches
 https://github.com/Rico957/timetree-ads-patch
 https://github.com/RikoDEV/morphed-pl
 https://github.com/Ripthulhu/morphe-google-patches
@@ -293,6 +296,7 @@ https://github.com/andrewliang25/morphe-patches
 https://github.com/andronedev/morphe-patches
 https://github.com/andronedev/morphe-portal-patch
 https://github.com/ang3lo-azevedo/morphe-patches
+https://github.com/anoraktrend/immich-media-patches
 https://github.com/anxyis/anxy-patches
 https://github.com/aprelchan/ayucord-patches
 https://github.com/arandomhooman/hoomans-morphe-patches
@@ -387,6 +391,7 @@ https://github.com/ethanm6/letterboxd-stremio-morphe-patch
 https://github.com/eyalm2000/tidal-debug-menu
 https://github.com/fangkampanat/gmaps-patches
 https://github.com/fangkampanat/google-maps-automotive-patches
+https://github.com/farbener/shuffle-plus-spotify
 https://github.com/feixiangdao/letterboxd-stremio-nuvio-morphe-patch
 https://github.com/ffejhog/ffejhog_morphe_patches
 https://github.com/franticg33k/morphe-patches
@@ -414,7 +419,6 @@ https://github.com/hoo-dles/morphe-patches
 https://github.com/hu-liberator/patches
 https://github.com/humzakh/HK-Morphe-Patches
 https://github.com/hxdes08/hxdes08_samsung_notes_patch
-https://github.com/hxmst/morphe-patches
 https://github.com/hxreborn/hxreborn-tiktok-patches
 https://github.com/hxreborn/morphe-patches
 https://github.com/hyperland956-lgtm/morphe-essentials-patches
@@ -508,11 +512,11 @@ https://github.com/nickcomua/airofit-pro2-morphe-patches
 https://github.com/nivalox/Larpude
 https://github.com/nm-nvan/Neil-Morphe-Patches
 https://github.com/nnuduck/Google-YourWidgets-Patches-for-Morphe
-https://github.com/noire342/moon-patches
 https://github.com/ns1207/morphe-patches-template
 https://github.com/ns1207/nl.dumpert.nopatch
 https://github.com/nuc134r/yandex-ads-patches
 https://github.com/o0b/morphe-patches
+https://github.com/ocel07/kmaps-nav-patches
 https://github.com/oliver-leung/transit-patches
 https://github.com/osirisad/teamSnap-patches
 https://github.com/pablobaro/pablobaro-morphe-patches
