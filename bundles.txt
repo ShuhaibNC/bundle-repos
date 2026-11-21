@@ -108,7 +108,6 @@ https://github.com/Hiosdra/morphe-patches
 https://github.com/HvQ/eksi-morphe
 https://github.com/Ikuradachi/Kagebili
 https://github.com/Ikuradachi/Kagecarbit
-https://github.com/Ikuradachi/Kageroll
 https://github.com/ImEnigma2x0/morphe-maloja-patch
 https://github.com/ImNoammm/Noams-Morphe-Patches
 https://github.com/ImmortalZeus/ImmortalZeus-Morphe-Patches
@@ -533,7 +532,6 @@ https://github.com/markpaul099/gboard-gifs-extended
 https://github.com/matthewclso/chrome-morphe
 https://github.com/mayanksh3khar/nuvio-morphe-patches
 https://github.com/meridianfresco/morphe-meta-patches
-https://github.com/mian196/GPhotos-custom-branding
 https://github.com/mich-de/openlauncher
 https://github.com/mich111discord/MightyMichs-Patches
 https://github.com/mmenzyns/morphe-patches
@@ -590,6 +588,7 @@ https://github.com/realcyberwash/max-patches
 https://github.com/redcatxus/PinSpoof
 https://github.com/rhubarbshoelaces/morphe-patches
 https://github.com/rikunode/fairemail-morphe-patches
+https://github.com/rikunode/hatena-bookmark-hide-pr-patches
 https://github.com/rikunode/pupil-swipe-disable-patches
 https://github.com/rikunode/x-feed-cleanup-patches
 https://github.com/riky-dev/morphe-patches
